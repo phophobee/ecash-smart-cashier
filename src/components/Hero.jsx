@@ -5,17 +5,17 @@ const slides = [
   {
     title: '"Mobil Legendaris Siap Milik Anda! Koleksi Eksklusif Mobil Antik dengan Sejarah Tak Terlupakan!"',
     description: "Kami dengan bangga mempersembahkan koleksi mobil antik langka yang siap menghiasi garasi Anda! Setiap unit memiliki sejarah, karakter, dan keunikan yang tak tergantikan. Dari desain retro yang memukau hingga mesin yang masih prima, mobil-mobil ini adalah investasi bernilai tinggi dan kebanggaan seumur hidup.",
-    image: "/public/images/vintage.png", // ganti dengan path sesuai
+    image: "/images/vintage.png", // ganti dengan path sesuai
   },
   {
     title: '"Bukan Hanya Pickup, Tapi Partner Terpercaya di Segala Medan!"',
     description: "Toyota Hilux hadir dengan ketangguhan legendaris dan performa tak terbantahkan! Dibangun untuk menghadapi tantangan terberat, baik di jalan raya, medan off-road, maupun kebutuhan kerja harian. Daya tahan, kekuatan, dan kehandalannya sudah diakui di seluruh dunia!",
-    image: "/public/images/hilux.png",
+    image: "/images/hilux.png",
   },
   {
     title: '"Lebih dari Sekadar Mobil, Hyundai adalah Pengalaman Berkendara Premium!"',
     description: "Temukan mobil Hyundai terbaru dengan desain futuristik, teknologi canggih, dan performa optimal yang siap menemani setiap perjalanan Anda. Hyundai menghadirkan kombinasi sempurna antara kenyamanan, keamanan, dan efisiensi bahan bakar, cocok untuk keluarga, profesional, maupun petualang urban!",
-    image: "/public/images/hyundai.png",
+    image: "/images/hyundai.png",
   },
 ];
 

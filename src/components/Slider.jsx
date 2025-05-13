@@ -2,27 +2,27 @@ const featureItems = [
   {
     title: "Sunshine Orange",
     description: "Dukungan barang dengan berbagai satuan (pcs, lusin, box).",
-    image: "/public/images/mtcorange.png",
+    image: "/images/mtcorange.png",
   },
   {
     title: "Fine Yellow",
     description: "Atur harga berdasarkan level pelanggan atau kuantitas.",
-    image: "/public/images/mtcyellow.png",
+    image: "/images/mtcyellow.png",
   },
   {
     title: "Great Green",
     description: "Pantau ketersediaan barang secara real-time.",
-    image: "/public/images/mtcgreen.png",
+    image: "/images/mtcgreen.png",
   },
   {
     title: "Mutual Black",
     description: "Hitung keuntungan penjualan secara otomatis.",
-    image: "/public/images/mtcblack.png",
+    image: "/images/mtcblack.png",
   },
   {
     title: "Nice Bomber",
     description: "Pantau pemasukan dan pengeluaran kas usaha Anda.",
-    image: "/public/images/mtcbomber.png",
+    image: "/images/mtcbomber.png",
   },
 ];
 
