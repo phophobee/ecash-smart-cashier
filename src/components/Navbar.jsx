@@ -137,7 +137,7 @@ const handleMenuClick = (item) => {
               <span className='font-poppins_extra text-right text-sm text-purple-600'>{userName}</span>
               <span className='text-sm text-right text-pink-400'>{(myPoint).toLocaleString()} point</span>
             </div>
-            <img src="/images/me.png" alt="avatar" className='rounded-[50%] h-10 hover:cursor-pointer' onClick={toggleMenu}/>
+            <img src="./images/me.png" alt="avatar" className='rounded-[50%] h-10 hover:cursor-pointer' onClick={toggleMenu}/>
           </div>)}
         </div>
       </header>
